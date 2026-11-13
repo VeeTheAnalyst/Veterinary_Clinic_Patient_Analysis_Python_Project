@@ -194,12 +194,32 @@ Based on the analysis, the following insights were identified:
 
 **Important:** The health-risk categories used in this project are based on programmed rules and are not clinically validated veterinary diagnoses.
 
+### Screenshots and Visualizations
+
+This section provides visual previews of the analysis and charts generated during the project.
+
+**Dataset Preview**
+<img width="1783" height="741" alt="Screenshot 2026-11-13 192541" src="https://github.com/user-attachments/assets/4ef45c22-9732-48e8-ade3-372ef243ee0e" />
+<img width="1919" height="740" alt="Screenshot 2026-11-13 191846" src="https://github.com/user-attachments/assets/b30765fd-2cb4-4335-ba50-c9963ee744fa" />
+
+**Data Cleaning**
+<img width="1779" height="751" alt="Screenshot 2026-11-13 192851" src="https://github.com/user-attachments/assets/c509e85d-04ce-45cd-9506-3e26cedc2b6c" />
+
+**Data Transformation**
+<img width="1783" height="790" alt="Screenshot 2026-11-13 193031" src="https://github.com/user-attachments/assets/1411070b-5287-47c6-a64d-f60ca4a9d61b" />
+<img width="1787" height="762" alt="Screenshot 2026-11-13 193227" src="https://github.com/user-attachments/assets/58f60d5f-74a8-4c13-a0bb-6a76fb3b48d5" />
+
+**Data Visualization**
+<img width="1791" height="744" alt="Screenshot 2026-11-13 212921" src="https://github.com/user-attachments/assets/990c1b77-377e-49c2-93fb-3934b326ca00" />
+<img width="1784" height="752" alt="Screenshot 2026-11-13 213010" src="https://github.com/user-attachments/assets/b238cd21-bdc4-41d0-864a-d6985adc0e6c" />
+
+
 ## 8. Repository Structure
 
 The project repository is organized as follows:
 
 ```text
-veterinary-clinic-patient-analysis/
+veterinary-clinic-analysis/
 │
 ├── data/
 │   └── README.md
@@ -207,11 +227,15 @@ veterinary-clinic-patient-analysis/
 ├── notebooks/
 │   └── veterinary_clinic_analysis.ipynb
 │
-├── README.md
+├── screenshots/
+│   ├── dataset-preview.png
+│   ├── data-cleaning.png
+│   ├── data-transformation.png
+│   ├── visualization.png
 │
+├── .gitignore
 ├── requirements.txt
-│
-└── .gitignore
+└── README.md
 ```
 
 ## 9. How to Run the Project
