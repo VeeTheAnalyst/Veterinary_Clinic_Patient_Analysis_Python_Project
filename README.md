@@ -275,11 +275,18 @@ Beyond the technical experience, this project strengthened our understanding of 
 
 It also provided an opportunity to apply Python libraries to a practical industry-related problem.
 
-## 12. Contributors
+## Author
+**Nnadiukwu Glory Vivian**
+(Junior Data Analyst)
+
+**Email:** gloryvivian2000@gmail.com
+
+**LinkedIn:**  https://www.linkedin.com/in/glory-nnadiukwu-178100322?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+
+## 12. Contributor
 
 **Muhyideen Saadah Aduke**
-
-**Nnadiukwu Glory Vivian**
 
 ---
 
